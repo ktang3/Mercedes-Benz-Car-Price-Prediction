@@ -1,4 +1,4 @@
-# Mercedes-Price-Car-Price-Prediction
+# Mercedes-Benz-Car-Price-Prediction
 
 ![https://www.mercedes-benz.com.hk/zh_HK/passengercars/mercedes-benz-cars/models/eqa/pad/eqa-story/_jcr_content/par/videoimageslider/slides/videoimageslide/image.MQ6.12.20210205034055.jpeg]
 
