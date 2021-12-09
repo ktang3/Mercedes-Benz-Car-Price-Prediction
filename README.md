@@ -1,6 +1,6 @@
 # Mercedes-Benz-Car-Price-Prediction
 
-![https://www.mercedes-benz.com.hk/zh_HK/passengercars/mercedes-benz-cars/models/eqa/pad/eqa-story/_jcr_content/par/videoimageslider/slides/videoimageslide/image.MQ6.12.20210205034055.jpeg]
+![alt text](https://www.mercedes-benz.com.hk/zh_HK/passengercars/mercedes-benz-cars/e-mobility/electric-intelligence/electric-intelligence/_jcr_content/par/productinfotextimage/media2/slides/videoimageslide/image.MQ6.7.20190227045955.jpeg)
 
 This project is divided into 2 parts, first part is the basic data visualization, introducing and comparing two of the libraries that i learnt, Matplotlib and Seaborn.
 
